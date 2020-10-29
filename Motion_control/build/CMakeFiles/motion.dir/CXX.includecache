@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/duoduo06/Documents/VScode/Motion_control/src/main.cpp
+
+/Users/duoduo06/Documents/VScode/Motion_control/src/motion_control.cpp
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -O0 -Wall -g -ggdb -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/motion.dir/src/main.cpp.o CMakeFiles/motion.dir/src/motion_control.cpp.o -o ../bin/motion 
